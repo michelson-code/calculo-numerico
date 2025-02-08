@@ -1,4 +1,6 @@
-# cálculo numérico
+# brmatrix (BRazilian MATRIX computations)
+
+##### Biblioteca for focada em operações matriciais. cálculo numérico
 
 # Bibliotecas de Álgebra Linear e Cálculo Numérico Aplicadas à Geofísica
 
