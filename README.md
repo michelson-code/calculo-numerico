@@ -31,10 +31,4 @@ Algumas das principais funcionalidades incluem:
 
 5. **Normas de Matrizes:** Cálculo de várias normas de matrizes (Frobenius, 1-norma, 2-norma e infinito-norma), usadas para medir erros em soluções de problemas de inversão geofísica.
 
-## Aplicações em Geofísica
 
-- **Sismologia:** As funções desenvolvidas permitem processar dados sísmicos de maneira eficiente, como correção NMO, empilhamento de dados e inversão de sismogramas.
-  
-- **Modelagem da Crosta Terrestre:** Através da resolução de sistemas lineares e decomposições matriciais, é possível construir modelos subterrâneos detalhados e determinar propriedades geofísicas, como a localização do Moho (discontinuidade de Mohorovičić).
-
-- **Análise de Ondas:** Ferramentas como a DFT são fundamentais para análise de frequências e comportamento de ondas sísmicas em diferentes camadas da Terra.
